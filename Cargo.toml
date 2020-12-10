@@ -6,7 +6,7 @@ edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 [dependencies]
-no-reexport = { path = "no-reexport" }
-reexport-dependent-types = { path = "reexport-dependent-types" }
-reexport-dependent-crate = { path = "reexport-dependent-crate" }
+no-reexport = { path = "crates/no-reexport" }
+reexport-dependent-types = { path = "crates/reexport-dependent-types" }
+reexport-dependent-crate = { path = "crates/reexport-dependent-crate" }
 image = "0.23.12"
