@@ -18,5 +18,6 @@ Investigation for usage of "Re-exporting"
 ├── target
 ├── Cargo.lock
 ├── Cargo.toml
+├── LICENSE
 └── README.md
 ```
